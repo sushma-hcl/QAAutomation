@@ -1,0 +1,42 @@
+[    1213ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://demoblaze.com/css/fonts/Lato-Regular.woff2 @ https://demoblaze.com/:0
+[    1504ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[    1588ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/:0
+[    1588ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/:0
+[ 1060119ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 1060135ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/prod.html?idp_=2:0
+[ 1060135ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/prod.html?idp_=2:0
+[ 1066590ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 1066613ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/:0
+[ 1066613ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/:0
+[ 2876406ms] [WARNING] Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <button.btn btn-secondary>
+Ancestor with aria-hidden: <div.modal fade#signInModal> @ https://demoblaze.com/:0
+[ 2883088ms] [WARNING] Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <button.close>
+Ancestor with aria-hidden: <div.modal fade#logInModal> @ https://demoblaze.com/:0
+[ 2889134ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2889153ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/prod.html?idp_=1:0
+[ 2889153ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/prod.html?idp_=1:0
+[ 2891950ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2891984ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/cart.html:0
+[ 2891984ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/cart.html:0
+[ 2898862ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2898878ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/index.html:0
+[ 2898878ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/index.html:0
+[ 2901911ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2901929ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/prod.html?idp_=1:0
+[ 2901929ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/prod.html?idp_=1:0
+[ 2908573ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2908586ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/cart.html:0
+[ 2908587ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/cart.html:0
+[ 2919277ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2919295ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/cart.html#:0
+[ 2919295ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/cart.html#:0
+[ 2944674ms] ReferenceError: showcart is not defined
+    at HTMLAnchorElement.onclick (https://demoblaze.com/cart.html#:722:63)
+[ 2949751ms] [WARNING] Blocked aria-hidden on an element because its descendant retained focus. The focus must not be hidden from assistive technology users. Avoid using aria-hidden on a focused element or its ancestor. Consider using the inert attribute instead, which will also prevent focus. For more details, see the aria-hidden section of the WAI-ARIA specification at https://w3c.github.io/aria/#aria-hidden.
+Element with focus: <button.close>
+Ancestor with aria-hidden: <div.modal fade#videoModal> @ https://demoblaze.com/cart.html#:0
+[ 2952372ms] [WARNING] VIDEOJS: WARN: A plugin named "reloadSourceOnError" already exists. You may want to avoid re-registering plugins! @ https://demoblaze.com/node_modules/video.js/dist/video.min.js:11
+[ 2952389ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/index.html:0
+[ 2952389ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://demoblaze.com/index.html:0
