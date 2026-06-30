@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+import post_signup from '../src/data/product.js';
 
 test.describe('Demoblaze API tests', () => {
   test('GET /entries returns product entries', async ({ request }) => {
@@ -33,8 +34,7 @@ test.describe('Demoblaze API tests', () => {
     const response = await request.post('https://api.demoblaze.com/signup', {
       ignoreHTTPSErrors: true,
       data: {
-        username,
-        password: 'Test@1234'
+       post_signup
       }
     });
 
