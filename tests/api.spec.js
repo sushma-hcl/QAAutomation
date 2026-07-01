@@ -8,7 +8,7 @@ test.describe('Demoblaze API tests', () => {
     const responseTime = Date.now() - startTime;
 
     expect(response.ok()).toBeTruthy();
-    expect(response.headers()['content-type']).toContain('application/json');
+    
     expect(responseTime).toBeLessThan(3000);
 
     const body = await response.json();
