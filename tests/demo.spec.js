@@ -33,6 +33,6 @@ test.describe('Demoblaze POM tests', () => {
     expect(cartItems[0].title).toContain(expectedName.trim());
     const cartPrice = cartItems[0].price.replace(/[^0-9.]/g, '').trim();
     expect(cartPrice).toBe(expectedPrice);
-    await page.waitForTimeout(2000); // Optional: Wait for 2 seconds to observe the result
+    
   });
 });
